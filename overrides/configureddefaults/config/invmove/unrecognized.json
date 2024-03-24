@@ -1,0 +1,13 @@
+{
+  "allowMovement": {
+    "net.minecraft.client.gui.screens.ReceivingLevelScreen": true,
+    "net.blay09.mods.hardcorerevival.client.KnockoutScreen": true,
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "net.minecraft.client.gui.screens.PauseScreen": true,
+    "net.minecraft.client.gui.screens.inventory.SmithingScreen": true
+  },
+  "hideBackground": {
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "net.minecraft.client.gui.screens.inventory.SmithingScreen": true
+  }
+}
