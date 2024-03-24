@@ -1,3 +1,3 @@
-ForgeEvents.onEvent('net.minecraftforge.event.entity.player.PlayerWakeUpEvent',event=>{
-    
+ForgeEvents.onEvent('net.minecraftforge.event.entity.player.PlayerWakeUpEvent', event => {
+
 })
