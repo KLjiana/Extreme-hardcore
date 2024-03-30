@@ -11,6 +11,7 @@
 [KL_jiana](https://www.mcmod.cn/author/28815.html) 创始人，策划  
 [Westernat](https://www.mcmod.cn/author/31204.html) 程序  
 
+整合包目前急需程序，美术和粒子师  
 如果您有意向加入整合包的开发共创这个奇迹的话，联系QQ: 2436262516  
 期待您的到来。  
 <p align="right">——KL_jiana</p>
