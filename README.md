@@ -30,6 +30,6 @@
 ⬜︎ Nether Portal Spread转换类型  
 ⬜︎ ftbq做对话框描述  
 ⬜︎ create的思索给拆出来做多方块的指引  
-⬜︎ Liberty's Villagers记得配置下 
+⬜︎ Liberty's Villagers记得配置下   
 ⬜︎ C418……当曲师？（我好神经——KL   
 
