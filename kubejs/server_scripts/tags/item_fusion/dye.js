@@ -1,4 +1,19 @@
 //物质融合染料类标签
 ServerEvents.tags('item', event => {
-    event.add
+    event.add('extreme_hardcore:dye', 'minecraft:white_dye')
+    event.add('extreme_hardcore:dye', 'minecraft:light_gray_dye')
+    event.add('extreme_hardcore:dye', 'minecraft:gray_dye')
+    event.add('extreme_hardcore:dye', 'minecraft:black_dye')
+    event.add('extreme_hardcore:dye', 'minecraft:brown_dye')
+    event.add('extreme_hardcore:dye', 'minecraft:red_dye')
+    event.add('extreme_hardcore:dye', 'minecraft:magenta_dye')
+    event.add('extreme_hardcore:dye', 'minecraft:purple_dye')
+    event.add('extreme_hardcore:dye', 'minecraft:blue_dye')
+    event.add('extreme_hardcore:dye', 'minecraft:light_blue_dye')
+    event.add('extreme_hardcore:dye', 'minecraft:cyan_dye')
+    event.add('extreme_hardcore:dye', 'minecraft:green_dye')
+    event.add('extreme_hardcore:dye', 'minecraft:lime_dye')
+    event.add('extreme_hardcore:dye', 'minecraft:yellow_dye')
+    event.add('extreme_hardcore:dye', 'minecraft:orange_dye')
+    event.add('extreme_hardcore:dye', 'minecraft:pink_dye')
 })

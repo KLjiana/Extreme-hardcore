@@ -1,4 +1,21 @@
 //物质融合蜡类标签
 ServerEvents.tags('item', event => {
-    event.add
+    event.add('extreme_hardcore:wax', 'minecraft:honeycomb')
+    event.add('extreme_hardcore:wax', 'minecraft:candle')
+    event.add('extreme_hardcore:wax', 'minecraft:light_gray_candle')
+    event.add('extreme_hardcore:wax', 'minecraft:white_candle')
+    event.add('extreme_hardcore:wax', 'minecraft:gray_candle')
+    event.add('extreme_hardcore:wax', 'minecraft:black_candle')
+    event.add('extreme_hardcore:wax', 'minecraft:brown_candle')
+    event.add('extreme_hardcore:wax', 'minecraft:red_candle')
+    event.add('extreme_hardcore:wax', 'minecraft:orange_candle')
+    event.add('extreme_hardcore:wax', 'minecraft:pink_candle')
+    event.add('extreme_hardcore:wax', 'minecraft:magenta_candle')
+    event.add('extreme_hardcore:wax', 'minecraft:purple_candle')
+    event.add('extreme_hardcore:wax', 'minecraft:blue_candle')
+    event.add('extreme_hardcore:wax', 'minecraft:light_blue_candle')
+    event.add('extreme_hardcore:wax', 'minecraft:cyan_candle')
+    event.add('extreme_hardcore:wax', 'minecraft:green_candle')
+    event.add('extreme_hardcore:wax', 'minecraft:lime_candle')
+    event.add('extreme_hardcore:wax', 'minecraft:yellow_candle')
 })
