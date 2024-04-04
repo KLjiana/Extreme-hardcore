@@ -1,4 +1,4 @@
-<div align=center><img src=overrides\configureddefaults\config\fancymenu\assets\load_menu\title.png></div>  
+<div align=center><img src=configureddefaults\config\fancymenu\assets\load_menu\title.png></div>  
 
 极致硬核
 ===============	
