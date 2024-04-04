@@ -1,0 +1,5 @@
+#The current Pack Mode
+"Pack Mode" = "normal"
+#All valid Pack Modes
+"Valid PackModes" = ["baby", "normal", "difficult", "hardcore", "debug"]
+

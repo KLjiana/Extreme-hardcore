@@ -50,20 +50,15 @@
   "sounds": {
     "death": {
       "sound": "playerrevive:death",
-      "volume": 1.0,
-      "pitch": 1.0
+      "volume": 0.0,
+      "pitch": 0.0
     },
     "revived": {
       "sound": "playerrevive:revived",
-      "volume": 1.0,
-      "pitch": 1.0
+      "volume": 0.0,
+      "pitch": 0.0
     }
   },
-  "bypassDamageSources": [
-    "gorgon",
-    "death.attack.sgcraft:transient",
-    "death.attack.sgcraft:iris",
-    "vampirism_dbno"
-  ],
+  "bypassDamageSources": [],
   "bleedInSingleplayer": true
 }
