@@ -157,4 +157,5 @@ ServerEvents.tags('item', event => {
     event.add('extreme_hardcore:plante', 'minecraft:wet_sponge')
     event.add('extreme_hardcore:plante', 'minecraft:sponge')
     event.add('extreme_hardcore:plante', 'minecraft:dead_fire_coral_fan')
+    event.add('extreme_hardcore:plante', 'cold_sweat:soul_sprout')
 })

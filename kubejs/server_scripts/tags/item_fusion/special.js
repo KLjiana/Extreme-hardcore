@@ -20,4 +20,5 @@ ServerEvents.tags('item', event => {
     event.add('extreme_hardcore:special', 'minecraft:tnt')
     event.add('extreme_hardcore:special', 'minecraft:echo_shard')
     event.add('extreme_hardcore:special', 'minecraft:experience_bottle')
+    event.add('extreme_hardcore:special', 'thinair:soulfire_bottle')
 })

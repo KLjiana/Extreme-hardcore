@@ -70,4 +70,7 @@ ServerEvents.tags('item', event => {
     event.add('extreme_hardcore:copper', 'minecraft:piglin_head')
     event.add('extreme_hardcore:copper', 'minecraft:dragon_head')
     event.add('extreme_hardcore:copper', 'minecraft:dragon_egg')
+    event.add('extreme_hardcore:copper', 'cold_sweat:fur')
+    event.add('extreme_hardcore:copper', 'cold_sweat:hoglin_hide')
+    event.add('extreme_hardcore:copper', 'cold_sweat:chameleon_molt')
 })
