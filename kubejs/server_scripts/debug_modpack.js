@@ -7,3 +7,11 @@ PlayerEvents.chestClosed(event => {
         event.server.tell(`event.add('extreme_hardcore:wood',${item.toItemString()})`)
     })
 })
+
+
+const $Entity = Java.loadClass('net.minecraft.world.entity.Entity');
+/**
+ * @type {Internal.Class<Internal.Entity>}
+ */
+const entityClass = $Entity.__javaObject__;
+const portalTime = entityClass.getDeclaredField("portalTime");
